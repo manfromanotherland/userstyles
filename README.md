@@ -6,7 +6,7 @@ Personal collection of user styles that I use for enhance websites that I love.
 
 Check out the Instagram preview below:
 
-![Instagram Preview](https://github.com/edmundojr/userstyles/instagram-preview.gif)
+![Instagram Preview](https://github.com/edmundojr/userstyles/blob/master/instagram-preview.gif)
 
 ---
 
