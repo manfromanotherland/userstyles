@@ -1,19 +1,15 @@
-._42elc {
-    max-width: none;
-    padding: 0;
-    width: 100%;
+/* Remove horizontal padding */
+
+._mesn5 {
+  width: 100%;
+  max-width: 100%;
+  padding-left: 0;
+  padding-right: 0;
 }
 
-._ba61e,
-._n3cp9 {
-    max-width: 1100px;
-}
+/* Remove spacing between photos */
 
-._jx516 {
-    max-width: 800px;
-}
-
-._myci9,
-._t5r8b {
-    margin: 0;
+._70iju,
+._f2mse {
+  margin: 0;
 }
