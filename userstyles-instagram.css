@@ -1,15 +1,20 @@
-/* Remove horizontal padding */
+/* Fit to window width */
 
-._mesn5 {
-  width: 100%;
-  max-width: 100%;
-  padding-left: 0;
-  padding-right: 0;
+section > main > div {
+  width: 100% !important;
+  max-width: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
-/* Remove spacing between photos */
+/* Remove horizontal gaps under photos */
 
-._70iju,
-._f2mse {
-  margin: 0;
+article div[style] > div {
+  margin-bottom: 0 !important;
+}
+
+/* Remove vertical gaps between photos */
+
+article div[style] > div > div {
+  margin-right: 0 !important;
 }
